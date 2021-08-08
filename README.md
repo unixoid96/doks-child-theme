@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+  is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
+![Doks — Modern Documentation](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
 
 ## Demo
 

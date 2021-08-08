@@ -1,39 +1,39 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "ГОСТИНЫЙ ДВОР"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Малая Сыя | Гостиный двор | Отдых в Хакасии 2021"
+description = "Гостиный двор расположен в деревне Малая Сыя в окружении живописной природы."
 
 ## Open Graph
-images = ["doks.png"]
+images = ["1.jpg"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "malayasiya.netlify.app"
+titleHome = "Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "https://twitter.com/unixoid96"
+twitterCreator = "@unixoid96"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
-schemaLocale = "en-US"
+schemaAuthor = "unixoid96"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/unixoid96"
+schemaLocale = "en-RUS"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = ""
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/unixoid96"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
