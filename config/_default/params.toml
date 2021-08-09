@@ -3,7 +3,7 @@
 ## Homepage
 title = "ГОСТИНЫЙ ДВОР"
 titleSeparator = "-"
-titleAddition = "Малая Сыя | Гостиный двор | Отдых в Хакасии 2021"
+titleAddition = "Малая Сыя | Гостиный двор | Отдых в Хакасии"
 description = "Гостиный двор расположен в деревне Малая Сыя в окружении живописной природы."
 
 ## Open Graph
@@ -25,10 +25,10 @@ schemaAuthorTwitter = ""
 schemaAuthorLinkedIn = ""
 schemaAuthorGitHub = "https://github.com/unixoid96"
 schemaLocale = "en-RUS"
-schemaLogo = "logo-doks.png"
+schemaLogo = "1.jpg"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "1.jpg"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = ""
